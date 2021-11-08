@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Favorite Color: Blue
+2. Favorite Food: Pizza
+3. Favorite Animal: Hedgehog
